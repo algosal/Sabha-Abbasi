@@ -68,4 +68,4 @@ Sabha is managing multiple physical and emotional health challenges, including d
 
 ---
 
-_Your compassionate, patient, and steady support is a vital part of Sabha’s journey toward better health and emotional balance._
+_My compassionate, patient, and steady support is a vital part of Sabha’s journey toward better health and emotional balance._
