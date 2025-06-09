@@ -27,6 +27,12 @@
    - Side effects: shakiness, rapid heartbeat (may cause some anxiety-like symptoms).
    - Indicates respiratory issues that can worsen stress.
 
+5. **Nabumetone 500 mg**
+
+   - A nonsteroidal anti-inflammatory drug (NSAID) used to reduce pain and inflammation, often for arthritis or chronic pain.
+   - Side effects: stomach upset, dizziness, increased risk of heart or kidney issues if used long term.
+   - Indicates Sabha might be managing chronic pain or inflammation, which can affect mood and overall well-being.
+
 ---
 
 ## Additional Health Issues:
@@ -39,7 +45,7 @@
 
 ## Overall Condition (on a scale 1 to 10):
 
-Estimated **3 to 6** — fragile but manageable state. Sabha may be tired, anxious, dealing with physical pain from migraines and breathing difficulty, plus emotional struggles from depression.
+Estimated **3 to 6** — fragile but manageable state. Sabha may be tired, anxious, dealing with physical pain from migraines, breathing difficulty, chronic pain or inflammation, plus emotional struggles from depression.
 
 ---
 
