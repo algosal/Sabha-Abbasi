@@ -23,8 +23,14 @@ This repository contains a concise summary of the medications and health conditi
    - Possible side effects: dizziness, nausea, restlessness.
 
 4. **Albuterol Sulfate**
+
    - Used for asthma or breathing difficulties.
    - Possible side effects: shakiness, rapid heartbeat, anxiety-like symptoms.
+
+5. **Nabumetone 500 mg**
+   - NSAID to reduce pain and inflammation (e.g., arthritis).
+   - Possible side effects: stomach upset, dizziness, risk of heart/kidney issues with long-term use.
+   - Indicates chronic pain or inflammation which can affect mood and quality of life.
 
 ---
 
@@ -38,7 +44,7 @@ This repository contains a concise summary of the medications and health conditi
 
 ## Overall Condition (Scale 1 to 10)
 
-Estimated between **3 to 6** — indicating a fragile but manageable state. Sabha may experience fatigue, anxiety, migraine pain, breathing difficulty, and emotional struggles from depression.
+Estimated between **3 to 6** — indicating a fragile but manageable state. Sabha may experience fatigue, anxiety, migraine pain, breathing difficulty, chronic pain or inflammation, and emotional struggles from depression.
 
 ---
 
